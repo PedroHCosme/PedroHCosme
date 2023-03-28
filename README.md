@@ -7,7 +7,6 @@
 :mailbox: How to reach me: <a href="pcosme555@gmail.com">pcosme555@gmail.com</a>
 
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroCosme&theme=github_dark&show_icons=true&hide_border=true" alt="Pedro's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCosme&theme=github_dark&layout=compact&hide_border=true" /></a> | -->
-| ------------- | ------------- |
 
 ## Languages and Tools:
 <div>
