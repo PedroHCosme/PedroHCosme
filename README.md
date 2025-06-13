@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Pedro
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/pcosme/)](https://www.linkedin.com/in/pcosme/)
 
 :school: Currently studying Control and Automation Engineering at UFMG, BR</br>
@@ -8,7 +5,14 @@
 
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroCosme&theme=github_dark&show_icons=true&hide_border=true" alt="Pedro's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCosme&theme=github_dark&layout=compact&hide_border=true" /></a> | -->
 
-## Languages and Tools:
+## "Currently Learning"
+* Industrial confusion & inconviencience engineering
+* Verbose abstraction
+* Controlling Control
+* Processing processed signals
+* Frogs and toads (the animal, those with sticky tongues and skin)
+
+<!--## Languages and Tools:
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">&nbsp;
@@ -21,6 +25,6 @@
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/800px-NewTux.svg.png">&nbsp;
-</div>
+</div>--!>
 
 </br>
