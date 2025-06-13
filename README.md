@@ -10,7 +10,7 @@
 * Verbose abstraction
 * Controlling Control
 * Processing processed signals
-* Frogs and toads (the animal, those with sticky tongues and skin)
+* Frog farming and toads obsolescence (the animal, those with sticky tongues and skin)
 
 <!--## Languages and Tools:
 <div>
