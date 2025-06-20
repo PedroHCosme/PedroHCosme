@@ -8,7 +8,6 @@
 ## "Currently Learning"
 * Industrial confusion & inconviencience engineering
 * Verbose abstraction
-* Processing signals
 * Frog farming and toads obsolescence (the animal, those with sticky tongues and skin)
 
 <!--## Languages and Tools:
