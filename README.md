@@ -5,10 +5,11 @@
 
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroCosme&theme=github_dark&show_icons=true&hide_border=true" alt="Pedro's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCosme&theme=github_dark&layout=compact&hide_border=true" /></a> | -->
 
-## "Currently Learning"
+## Currently "Learning"
 * Industrial confusion & inconviencience engineering
 * Verbose abstraction
 * Frog farming and toads obsolescence (the animal, those with sticky tongues and skin)
+
 
 <!--## Languages and Tools:
 <div>
